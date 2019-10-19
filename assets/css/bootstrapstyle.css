@@ -1,0 +1,118 @@
+
+
+.navbar-nav {
+    margin-left: auto;
+    font-size: large;
+    
+}
+
+h1 {
+    float: left;
+    background-color: #4aaaa5;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    Color: white;
+    height: 20px;
+    width: 230px;
+    margin-left: 430px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    margin-top: 50px;
+}
+
+
+
+h2 {
+    Color: #4aaaa5;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: #ffffff;
+    border-color: #cccccc;
+    border-bottom: 2px #cccccc solid;
+    height: 40px;
+    position: relative;
+    font-size: 30px;
+    width: auto;
+}
+
+h3 {
+	bottom: 10px;
+	width: 100%;
+	padding: 13px;
+	margin-bottom: -7px;
+	font-weight: 250;
+	line-height: 25px;
+	color: #fff;
+	text-align: center;
+	background: #4aaaa5;
+;
+}
+
+.container1 {
+
+    width: 960px;
+    height: auto;
+    background-color: white;
+    padding: 20px 30px;
+    margin: auto;
+    line-height: 2.0em;
+}
+
+.container2 {
+    margin: auto;
+    width: 800px;
+    height: auto;
+    background-color: white;
+    padding: 30px 40px;
+    line-height: 2.0em;
+}
+.container3 {
+    width: 960px;
+    height: auto;
+    background-color: white;
+    padding: 30px 40px;
+    line-height: 2.0em;
+    margin: auto;
+}
+
+container4 {
+    padding: 10px 10px;
+    border-bottom: 2px #cccccc solid;
+    background-color: #4aaaa5;
+}
+
+.button {
+    background-color: #4aaaa5;
+    color:white;
+    font-size: 16px;
+    text-align:center;
+    margin: 2px 2px;
+    padding:7px 22px;
+    border:none;
+}
+
+textarea {
+    width: 875px;
+    height: 200px;
+}
+
+.textline {
+    width: 875px;
+    height: 25px;
+}
+
+
+body {
+    background-image: url("../images/email-pattern.png");
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+#main-footer {
+    position: relative;
+    text-align: center;
+    background-color: #666666;
+    color: white;
+    line-height: 50px;
+    border-top: 6px #4aaaa5 solid;
+    Bottom:-15px;
+}
+
